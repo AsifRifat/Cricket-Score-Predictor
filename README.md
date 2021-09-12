@@ -1,2 +1,2 @@
 # Cricket-Score-Predictor
-![](image.jpg)   
+![alt text](https://github.com/AsifRifat/Cricket-Score-Predictor/blob/main/image.png)
